@@ -60,17 +60,14 @@ An online course-selling platform built with **React**.
 ## 📫 Contact Me
 
 <p align="left">
-  <a href="mailto:mobina.1383tabari@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Email" />
+  <a href="https://t.me/mobinadev1">
+    <img src="https://skillicons.dev/icons?i=telegram" width="50" alt="Telegram" />
   </a>
   <a href="https://www.linkedin.com/in/mobina-tabari">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/MobinaTabari">
-    <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub" />
-  </a>
-  <a href="https://t.me/mobinadev1">
-    <img src="https://skillicons.dev/icons?i=telegram" width="50" alt="Telegram" />
+  <a href="mailto:mobina.1383tabari@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Email" />
   </a>
 </p>
 
