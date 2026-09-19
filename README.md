@@ -61,7 +61,7 @@ An online course-selling platform built with **React**.
 
 <p align="left">
   <a href="https://t.me/mobinadev1">
-    <img src="https://skillicons.dev/icons?i=telegram" width="50" alt="Telegram" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" height="50"/>
   </a>
   <a href="https://www.linkedin.com/in/mobina-tabari">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn" />
